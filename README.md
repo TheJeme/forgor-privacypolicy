@@ -1,5 +1,5 @@
-# forgor-privacypolicy
-Forgor is a minimalist notes app.
+# I Forgor Privacy Policy
+I Forgor is a minimalist notes app.
 
 I have programmed this app to NOT collect any personally identifiable information. This app doesn't send any data anywhere. It saves all the data on your local device.
 
